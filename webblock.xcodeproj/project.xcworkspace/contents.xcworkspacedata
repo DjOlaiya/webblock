@@ -2,6 +2,9 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:webblock.xcodeproj">
+      location = "group:../web_block.py">
+   </FileRef>
+   <FileRef
+      location = "self:">
    </FileRef>
 </Workspace>
